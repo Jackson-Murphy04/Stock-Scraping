@@ -4,12 +4,12 @@ The software will be a web scraper that extracts stock market news, forum discus
 
 Solution Outline:
 
-Web Scraping: Utilize Python (e.g., BeautifulSoup and Selenium maybe others?) to extract data from stock news websites and Reddit forums.
+1. Web Scraping: Utilize Python (e.g., BeautifulSoup and Selenium maybe others?) to extract data from stock news websites and Reddit forums.
 
-Data Processing: Implement sentiment analysis using a python framework like VADER
+2. Data Processing: Implement sentiment analysis using a python framework like VADER
 
- Storage & Output: Store extracted data in some data base
+3. Storage & Output: Store extracted data in some data base
 
-Analysis & Insights: Develop simple analytics to rank stocks based on frequency and sentiment of mentions.
+4. Analysis & Insights: Develop simple analytics to rank stocks based on frequency and sentiment of mentions.
 
 5. Potentially developing a stock trading bot that uses this data to make trades to test the performance of this type of trading strategy?
