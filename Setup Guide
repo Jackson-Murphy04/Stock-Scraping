@@ -1,5 +1,5 @@
 Install Python
 Install Selenium
   pip install selenium
-Install chromeDriver
+Might need to update chrome and make sure Chromedriver is up to date 
 
