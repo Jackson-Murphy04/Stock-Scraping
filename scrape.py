@@ -30,12 +30,32 @@ sites = ["https://finance.yahoo.com/markets/stocks/trending/",
          "https://finviz.com/screener.ashx?v=120&s=ta_topgainers"
         ]
 
+
+# helper function
+def substring(text):
+    # skip first 8 chars and get until .
+    text = text[8:]
+    newString = ""
+    for i in text:
+        if i == '/':
+            newString += '_'
+        elif i == '?':
+            break
+        else:
+           newString += i
+    newString += ".txt"
+    return newString    
+
 # loop array and open each site
 for site in sites:
   # set target site
   driver.get(site)
-  # output site HTML
-  print(driver.page_source)
+  # write site HTML to file 
+  path = "site-html\\" + substring(site)
+  #path = "site-html\data.txt"
+  file = open(path, "w", encoding="utf-8")
+  file.write(driver.page_source)
+  file.close()
 
 # close site
 driver.quit()
