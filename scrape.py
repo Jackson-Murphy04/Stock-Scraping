@@ -1,13 +1,16 @@
+# selenium
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
+# beautiful soup
+from bs4 import BeautifulSoup
 
 # set driver path for chromeDriver
 service = Service(executable_path="chromedriver.exe")
 
 # Configure Chrome options
 options = Options()
-options.add_argument("--headless")  # Enable headless mode
+# options.add_argument("--headless")  # Enable headless mode
 
 # init chrome driver
 driver = webdriver.Chrome(options=options, service=service)
@@ -46,6 +49,7 @@ def substring(text):
     newString += ".txt"
     return newString    
 
+''''
 # loop array and open each site
 for site in sites:
   # set target site
@@ -55,8 +59,32 @@ for site in sites:
   #path = "site-html\data.txt"
   file = open(path, "w", encoding="utf-8")
   file.write(driver.page_source)
-  file.close()
+  file.close()'
+'''''
+
+# working with the first site using beautiful soup
+# https://finance.yahoo.com/markets/stocks/trending/
+
+# target site and load page html
+driver.get("https://finance.yahoo.com/markets/stocks/trending/")
+html = driver.page_source
+driver.quit()
+
+# Parse the HTML with BeautifulSoup
+soup = BeautifulSoup(html, 'html.parser')
+
+# Find all 'tr' elements with class 'row false yf-hhhli1' which contain the trending stocks and info
+titles = soup.find_all('tr', class_='row false  yf-hhhli1')
+
+# Loop through each title and print relevant info
+for title in titles:
+    print(title)
+    # Find the ticker symbol of each the % chnage and the volume 
+    ticker = title.find('td', class_ = 'cell tw-h-10 tw-py-0 yf-hhhli1').find('div', class_ = 'name yf-1fqyif7 stacked').find('span', 'symbol yf-1fqyif7')
+    print(ticker)
+
+
 
 # close site
-driver.quit()
+# driver.quit()
 
