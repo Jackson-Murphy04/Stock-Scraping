@@ -2,38 +2,25 @@
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 # beautiful soup
 from bs4 import BeautifulSoup
 # time
 import time
 
 # set driver path for chromeDriver
-service = Service(executable_path="chromedriver.exe")
+service = Service(executable_path="Stock-Scraping\chromedriver.exe")
 
 # Configure Chrome options
 options = Options()
-# options.add_argument("--headless")  # Enable headless mode
+# user agent to avoid bot detection 
+# options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3")
+options.add_argument("--headless")  # Enable headless mode
 
 # init chrome driver
 driver = webdriver.Chrome(options=options, service=service)
-
-# make array of target sites 
-sites = ["https://finance.yahoo.com/markets/stocks/trending/", 
-         "https://finance.yahoo.com/markets/stocks/gainers/", 
-         "https://finance.yahoo.com/markets/stocks/most-active/",
-         "https://finance.yahoo.com/topic/stock-market-news/",
-         "https://www.marketwatch.com/",
-         "https://www.marketwatch.com/column/need-to-know?mod=newsviewer_click",
-         "https://seekingalpha.com/editors-picks",
-         "https://seekingalpha.com/market-news/trending",
-         "https://www.bloomberg.com/markets",
-         "https://www.reddit.com/r/wallstreetbets/",
-         "https://www.reddit.com/r/stocks/",
-         "https://www.reddit.com/r/investing/",
-         "https://finviz.com/",
-         "https://finviz.com/news.ashx",
-         "https://finviz.com/screener.ashx?v=120&s=ta_topgainers"
-        ]
 
 
 # helper function
@@ -51,25 +38,16 @@ def substring(text):
     newString += ".txt"
     return newString    
 
-''''
-# loop array and open each site
-for site in sites:
-  # set target site
-  driver.get(site)
-  # write site HTML to file 
-  path = "site-html\\" + substring(site)
-  #path = "site-html\data.txt"
-  file = open(path, "w", encoding="utf-8")
-  file.write(driver.page_source)
-  file.close()'
-'''''
 
 # working with the first site using beautiful soup
-# https://finance.yahoo.com/markets/stocks/trending/
 
 # target site and load page html
 driver.get("https://finance.yahoo.com/markets/stocks/trending/")
-time.sleep(20)
+#time.sleep(5)
+# Wait for all rows to load
+WebDriverWait(driver, 20).until(
+    EC.presence_of_all_elements_located((By.CSS_SELECTOR, "tr"))
+)
 html = driver.page_source
 driver.quit()
 
@@ -77,19 +55,15 @@ driver.quit()
 soup = BeautifulSoup(html, 'html.parser')
 
 # Find all 'tr' elements with class 'row false yf-hhhli1' which contain the trending stocks and info
-titles = soup.find_all("tr", class_="row false  yf-hhhli1")
+titles = soup.find_all("tr", class_="row false yf-hhhli1")
+# titles = soup.select("tr.row.false.yf-hhhli1")
 
 print(f"Number of titles found: {len(titles)}")
 
 # Loop through each title and print relevant info
 for title in titles:
-    print(title)
+    #print(title)
     # Find the ticker symbol of each the % chnage and the volume 
     ticker = title.find('span', class_ = "symbol yf-1fqyif7")
     print(ticker.text)
-
-
-
-# close site
-# driver.quit()
 
