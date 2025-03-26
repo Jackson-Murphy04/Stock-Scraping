@@ -11,7 +11,7 @@ from bs4 import BeautifulSoup
 import time
 
 # set driver path for chromeDriver
-service = Service(executable_path="Stock-Scraping\chromedriver.exe")
+service = Service(executable_path="chromedriver.exe")
 
 # Configure Chrome options
 options = Options()
