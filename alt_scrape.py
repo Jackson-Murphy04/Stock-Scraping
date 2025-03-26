@@ -24,4 +24,8 @@ titles = soup.find_all("tr", class_="row false yf-hhhli1")
 for title in titles:
     # Find the ticker symbol of each the % change and the volume 
     ticker = title.find('span', class_="symbol yf-1fqyif7")
-    print(ticker.text)
+    change = title.find('span', class_="d60f3b00 c4af00a5 c956d6fc")
+    volume = title.find('span', class_="d60f3b00 f80689d3")
+    print(ticker.text, change, volume)
+# change and volume are before and after elements and need selenium to extract the values
+
