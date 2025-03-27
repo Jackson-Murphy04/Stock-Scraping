@@ -46,8 +46,9 @@ driver.get("https://finance.yahoo.com/markets/stocks/trending/")
 #time.sleep(5)
 # Wait for all rows to load
 WebDriverWait(driver, 20).until(
-    EC.presence_of_all_elements_located((By.CSS_SELECTOR, "tr"))
+    EC.presence_of_all_elements_located((By.CSS_SELECTOR, "tr.row.false.yf-hhhli1"))
 )
+WebDriverWait(driver, 30)
 html = driver.page_source
 driver.quit()
 
@@ -56,14 +57,18 @@ soup = BeautifulSoup(html, 'html.parser')
 
 # Find all 'tr' elements with class 'row false yf-hhhli1' which contain the trending stocks and info
 titles = soup.find_all("tr", class_="row false yf-hhhli1")
-# titles = soup.select("tr.row.false.yf-hhhli1")
-
-print(f"Number of titles found: {len(titles)}")
 
 # Loop through each title and print relevant info
 for title in titles:
-    #print(title)
-    # Find the ticker symbol of each the % chnage and the volume 
-    ticker = title.find('span', class_ = "symbol yf-1fqyif7")
-    print(ticker.text)
+    # Find the ticker symbol, % change, and volume
+    ticker = title.find('span', class_="symbol yf-1fqyif7")
+    change = title.select_one('[data-field="regularMarketChangePercent"] span')
+    volume = title.select_one('[data-field="regularMarketVolume"] span')
+
+    # Extract text only if the element exists
+    ticker_text = ticker.text.strip() if ticker else "N/A"
+    change_text = change.text.strip() if change else "N/A"
+    volume_text = volume.text.strip() if volume else "N/A"
+
+    print(ticker_text, change_text, volume_text)
 
