@@ -2,5 +2,5 @@ Jackson
 02/22 - 1 hour basic project and idea research
 03/18 - 2 hours learning to use selenium and get basic script running
 03/18 - 2 hours learning to use beautiful soup and targeting first site yahoo trending 
-
+03/26 - 1 hour lab general bug fixing for first scrape
 
