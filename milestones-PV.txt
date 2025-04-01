@@ -1,0 +1,14 @@
+Timelog:
+3/26- 1 hour in lab writing rubric
+3/29- 2 hours researching python and selenium
+3/30- 1 hour researching beautifulsoup
+3/31- 1 hour testing code and attempting to scrape for the first time (ran into an issue with selenium, “Unable to obtain driver for chrome”)
+
+
+Rubric:
+15 points - Program successfully scrapes data from target stock websites
+10 points - Program successfully stores and outputs data
+15 points - Program performs analysis on the data extracted and ranks stocks by comparing each stock’s data
+
+
+Summary: This challenge was challenging as I am learning a new technology, and still have some steps to figure out with setting up selenium, but it has been interesting to learn more about python and how it can be used, as well as to learn about selenium and beautifulsoup.
