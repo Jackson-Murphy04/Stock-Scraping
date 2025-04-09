@@ -1,0 +1,19 @@
+Since challange 7 we have not done much additional work. Overall the project is in a good spot 
+and probably needs a couple good weekends of work to finish. We have been able to learn how to use selenium
+and beautiful soup and demonstrated how to target a site. From here over the next couple of weeks it 
+should be realitively easy to adapt this to other sites we want to target. The main thing we havent started 
+doing wuch with is the sentiment anaylsis part once we have a working set of data we should be able to put
+start using that. And then from their it will just be about thinking about the best way to display results 
+and potentially test it aginst old market data. We have both spent a equal amount of work so far and have not 
+run into any main issues.
+
+Jackson
+02/22 - 1 hour basic project and idea research
+03/18 - 2 hours learning to use selenium and get basic script running
+03/18 - 2 hours learning to use beautiful soup and targeting first site yahoo trending 
+03/26 - 1 hour lab general bug fixing for first scrape
+Philip:
+3/26- 1 hour in lab writing rubric
+3/29- 2 hours researching python and selenium
+3/30- 1 hour researching beautifulsoup
+3/31- 1 hour testing code and attempting to scrape for the first time (ran into an issue with selenium, “Unable to obtain driver for chrome”)
