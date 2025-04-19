@@ -1,29 +1,27 @@
 https://finance.yahoo.com/markets/stocks/trending/
-GOOG (-1.38%) 19.368M
 NFLX (+1.19%) 7.455M
-CHA (+15.86%) 14.527M
-DJT (+11.65%) 11.861M
-GME (+2.02%) 7.33M
-MSGM (+145.54%) 34.81M
-NWBO (-0.57%) 6.318M
-GOOGL (-1.42%) 32.915M
+COF (+1.69%) 2.339M
+DFS (+2.12%) 1.106M
 DOCS (+0.81%) 1.941M
-MGNI (+12.42%) 8.979M
-AGEN (+26.06%) 699,900
-CAR (+16.37%) 3.385M
-WOLF (+14.35%) 19.477M
-STEM (+26.80%) 12.238M
-BYDDY (+0.24%) 306,508
-TTD (+3.74%) 13.946M
-KR (+3.20%) 11.454M
-KO (+1.84%) 18.984M
 9988.HK (+3.13%) 113.942M
-SNAP (+1.81%) 31.59M
-COST (+2.76%) 2.698M
-DG (+4.15%) 4.167M
-QS (+2.71%) 5.254M
-DLTR (+8.10%) 7.216M
+HSY (+1.44%) 1.12M
 BRK-A (+0.59%) 276
+CSCO (0.00%) 15.81M
+MMM (-0.19%) 4.952M
+BMY (-0.26%) 14.243M
+WBA (+0.83%) 7.845M
+MAIN (+1.04%) 605,042
+SNPS (-0.56%) 1.002M
+WM (+0.58%) 1.372M
+GERN (+2.42%) 8.109M
+MC.PA (+0.08%) 902,702
+V (-0.52%) 4.581M
+QS (+2.71%) 5.254M
+ABNB (+0.05%) 4.455M
+REGN (+2.53%) 808,330
+ARCC (+1.54%) 4.197M
+RIVN (+0.96%) 16.011M
+ORCL (-0.88%) 6.744M
 
 https://finance.yahoo.com/markets/stocks/gainers/
 HTZ (+44.31%) 262.578M
@@ -96,7 +94,9 @@ America's largest homebuilder warns of slow spring selling season as affordabili
 'Tariff free' cars are being advertised at dealerships. But for how long?
 IMF boss: Trump tariffs will stoke inflation and slow growth — but not cause a global recession
 UnitedHealth stock craters in worst day since 1998 on 'unusual and unacceptable' results
-One big reason US stock market exceptionalism is here to stay
+Billionaire David Einhorn's hedge fund crushed the market last quarter by investing in gold
+Billionaire David Einhorn's hedge fund crushed the market last quarter by investing in gold
+Netflix is charging ahead as one of the stock market's favorite recession plays
 One big reason US stock market exceptionalism is here to stay
 UBS says these 5 consumer-staple stocks are built to weather the uncertain economic storm right now
 A jump in delinquencies in a corner of the mortgage market suggests first-time homebuyers may be struggling
@@ -145,5 +145,428 @@ Q4 Earnings Highlights: Teradata (NYSE:TDC) Vs The Rest Of The Data Infrastructu
 Unpacking Q4 Earnings: Movado (NYSE:MOV) In The Context Of Other Apparel and Accessories Stocks
 A Look Back at Defense Contractors Stocks’ Q4 Earnings: KBR (NYSE:KBR) Vs The Rest Of The Pack
 A Look Back at Leisure Products Stocks’ Q4 Earnings: Solo Brands (NYSE:DTC) Vs The Rest Of The Pack
-Q4 Data & Business Process Services Earnings Review: First Prize Goes to CSG (NASDAQ:CSGS)
-Spotting Winners: Olo (NYSE:OLO) And Vertical Software Stocks In Q4
+
+https://finviz.com/
+MSGM 145.54% 36.31M Top Gainers
+ADGM 92.81% 114.88M Top Gainers
+PNBK 73.54% 1.53M Top Gainers
+RTC 72.09% 185.97M Top Gainers
+SMX 57.53% 38.64M Top Gainers
+OMH 54.16% 6.37M Top Gainers
+HTZ 44.31% 264.96M New High
+CUPR N/A 481.32K New High
+OVBC 11.46% 27.46K New High
+VRM 11.08% 14.70K New High
+AVTE 2.61% 175.81K Overbought
+ELPW 19.69% 1.38M Overbought
+ADGM 92.81% 114.88M Unusual Volume
+SXTC 118.42% 51.58M Unusual Volume
+MSGM 145.54% 36.31M Unusual Volume
+OMH 54.16% 6.37M Unusual Volume
+CSIQ 3.90% 1.24M Upgrades
+ACU 3.24% 49.87K Earnings Before
+LIEN N/A 27.11K Insider Buying
+LXEH N/A 1.44M Top Losers
+IOTR N/A 3.78M Top Losers
+FMTO N/A 190.26M Top Losers
+BULL N/A 3.82M Top Losers
+XCUR N/A 61.14K Top Losers
+AGL N/A 22.40M Top Losers
+RNAZ N/A 5.56M New Low
+SISI N/A 823.23K New Low
+CWD N/A 579.13K New Low
+FOXO N/A 1.65M New Low
+LGMK N/A 72.42M Oversold
+NTIC N/A 61.09K Oversold
+LXEH N/A 1.44M Most Volatile
+MSGM 145.54% 36.31M Most Volatile
+STSS 20.75% 382.26M Most Active
+DMN 9.68% 369.20M Most Active
+AMKR N/A 1.69M Downgrades
+FFIN N/A 503.55K Earnings After
+VLGEA N/A 34.65K Insider Selling
+
+https://finviz.com/news.ashx
+An ‘overly politicized Fed’ could be ‘problematic’ for the markets, says Andrew Bary
+CIO advises investors to be ‘really disciplined’ amid market volatility, Fed feud
+Trump Officials Blame Mistake for Setting Off Confrontation With Harvard
+Why everyone is suddenly so interested in US bond markets
+What is a good sweet spot for oil to help the economy flourish?
+The signs that Trump's policies are working are 'vividly in the data,' economic official says
+The US will be in ‘great shape’ after tariff deals, former Home Depot CEO argues
+Tesla to Delay Production of Cheaper EVs, Reuters Reports
+Why Trump Media once again called out ‘naked short selling’ as its stock dropped
+Why silver could finally be a better investment opportunity than gold
+Nvidia's 2025 has been anything but easy. And it's going to get tougher.
+Capital One, Discover merger gets key approvals
+Trump studying if removing Powell is an option, Hassett says
+Trump has wiped out the teams that protect student borrowers
+Opinion: Instead of fixing his trade war, Trump is going after the Fed
+The ‘smart money’ index is acting unusual. It could be a buying opportunity.
+Stock market volatility is an opportunity for investors who have 'nerves,' expert says
+Allegiance Flag Supply on a mission to craft 100% American-made flags
+Markets can deal with anything, but they can't price in uncertainty, expert explains
+Trump won’t fire Powell — but he could still pressure the Fed. Here's how.
+Investment expert recommends being ‘patient’ with UnitedHealth Group stock
+Judge declares Google has illegal ad monopoly
+Where Trump’s trade deals with China, Europe, Japan and other countries stand
+Here’s where Trump’s trade deals with China, Europe, Japan and other countries stand
+Guy Fieri lays down strict rule for Gen Z kids to get their inheritance
+Russian rouble strengthens past 81 vs U.S. dollar, up 40% since start of 2025
+Italy Clears UniCredit Takeover Bid on Banco BPM With Conditions
+Take Five: Lasting damage
+What stores are open, closed on Easter Sunday?
+The case for revamping a 60%-stocks40%-bonds retirement portfolio.mp4
+Federal judge temporarily blocks mass firings at Consumer Financial Protection Bureau
+Market expert on US being in 'direct trade war' with the world's largest economies: There are problems afoot
+Fed’s Daly Says Rates on Hold But Cuts Still Possible This Year
+Eli Lilly CEO sounds the alarm on America's dependence on Chinese-made drugs
+Co-creator of this economic-uncertainty index doesn’t know when worst is over
+Nvidia, Apple show how investors are firefighting tariff changes
+How Netflix has been able to skirt effects of Trump’s tariffs
+US Measles Cases Rise 12% in a Week to Reach 800 in 24 States
+Capital One and Discover merger approved by Federal Reserve
+Powell made it clear Fed is not going to rescue markets
+US moves to levy Chinese ships as Trump softens rhetoric
+Netflix praised as 'cleanest story' in tech after latest earnings repor
+Wall Street says gold still has room to run after another record high
+Google Makes History With Rapid-Fire Antitrust Losses
+Trump Studying If Removing Powell Is Option, Hassett Says
+Trump knows how to deal with China's Xi Jinping: Michael Pillsbury
+Newer investors have been rewarded for buying market dips. That may not last.
+French Grid Operator Warns Suppliers Over Breaches Fanning Glut
+Trump, Fed Chair Powell need to stay in their lane: Kenny Polcari
+The $5 Limit on Overdraft Fees May Soon Be Struck Down
+Welcome to Schrödinger’s Stock Market
+China Premier Calls for More Efforts to Help Stocks, Property
+We’re going to ask for a big commitment from our European allies: Matthew Whitaker
+Is the stock market open today? Are banks closed?
+With Harvard Threat, Trump Tries to Bend the I.R.S. to His Will
+Economists share where they look for clues that a U.S. recession could be coming
+Eli Lilly enters 'beginning of new era' with oral weight loss medicine
+Archer Aviation teams up with United Airlines to make air taxis a reality
+Why the 60/40 retirement portfolio needs a revamp
+Google's bad year just got worse
+'Investors are anxious': Powell's warning, tariffs drag on markets
+Lazard Hires Former Chair of Powerful House Financial Services Committee
+Amazon Is Better Prepared for the Trade War Than Investors Think
+U.S. Gas Exports to China Stopped After Beijing Imposed Tariffs
+Ivory Coast Seizes 594 Tons of Smuggled Cocoa Beans
+Wall St Week Ahead Busy US earnings week confronts market grappling with tariff fallout
+Kenya Scraps Program to Build Roads Via Bank Loans Over Costs
+Netflix earnings wow Wall Street
+Now Streaming on Netflix: A Show Where Profits Trump the Trade War
+EM Assets Set for Best Week Since March as China Concerns Abate
+Tokyo leads gains in most Asian markets on trade deal hopes
+Long-Term Investing Has Gotten Riskier as Trump’s Tariffs Shake the Markets
+How QVC’s CEO Is Dealing With the Threat of Tariffs and TikTok
+Mitu Gulati on Whether Trump Could Restructure US Debt
+Japan's Nikkei notches best week in 3 months on trade deal hopes
+Abu Dhabi Defies Oil Price Plunge to Keep Building Big at Home
+Deutsche Bank Sees More China Clients Moving Out of US Assets
+BOJ will keep raising rates if inflation on track, Governor Ueda says
+Where 'Made in China 2025' missed the mark
+Asian Stocks Edge Higher in Thin Holiday Trading: Markets Wrap
+Netflix Darling Stocks Rise as Korea Election, Tariff Haven Bets
+Major Japan Life Insurer to Pile Into Domestic Super-Long Bonds
+Stock Market News, April 17, 2025: Dow Industrials Slip; Trump Renews Attack on Fed Chair Powell
+US lays out plans to hit Chinese ships with port fees
+Korea Mulls Doubling FX Bonds for Interventions to $3.5 Billion
+China Solar Cell Makers Set Record Output Despite Vows to Cut
+Japanese Municipal Bond Deals Fail to Sell as Rate Swings Surge
+Japan FSA Says Hacked Online Trading Reaches About $700 Million
+Trump and Powell on Collision Course Without Easy Escape
+Greenland is 'critically important' to national security, argues former NASA administrator
+Single Deadliest Yemen Strike Of Trump Presidency Destroys Vital Oil Port
+Bovard Warns Conservatives, Libertarians Over Foreign Student Persecution Cases
+Ukraine Energy Strike Moratorium Has Ended, Kremlin Declares
+Waste Of The Day: Ex-Speakers Enjoy House Money
+US Gov't: Katy Perry "Doesn't Meet FAA Astronaut Criteria"
+Former NY Police Sgt. Gets 18 Months In Prison For Acting As CCP Agent
+China Boosts Southeast Asia Ties But Trump Alienates Them
+Trump Ready To Recognize Crimea As Russian After Warning He May Walk From Ukraine Peace Deal
+What Every Gym-Goer Should Know About Pre-Workout Supplements
+April 18th COVID Update: COVID Deaths Continue Declining
+The “Too Crowded” Gold Trade
+Lab Leak: White House Unveils Massive Report On The True Origins Of COVID 19
+Ford Halts Shipments of F-150s and Other Models to China, Winning?
+US Offers Russia Sanctions Relief For Peace, But Warns Trump Could 'Move On'
+The consequences of China Banning the Export of Rare Metals
+RFK Jr knows nothing about autism
+MiB: Martín Escobari, General Atlantic
+Housing and Demographics
+Podcast links: audiobook snobbery
+Q1 GDP Tracking: Near Zero Growth
+Misogyny, Racism, Science suppression
+Traders Should Exit Hertz Following Recent Short Squeeze
+Housing permits and Starts remain rangebound, while Construction declines further; expect Employment to turn down soon
+Impact in Thailand from Cutting off USAID Funding
+10 Friday AM Reads
+Inflation Risk Is Subsiding Rapidly
+Gold, Guns, And The Market: What Rising Tensions Really Mean For Your Portfolio
+LTCN: Spot Litecoin ETFs May Be Weeks Away
+Friday: Markets Closed for Good Friday
+Silver’s History: The Catch-Up King
+Jobless claims remain well-behaved, while Philly region manufacturing … isn’t
+Need Car Repairs? Get Them Done While Parts Are Still Available
+Thursday links: dismissing nuance
+Realtor.com Reports Active Inventory Up 31.2% YoY
+The Price of Miracle
+Earnings Season...The Super Bowl of Business...Stocktwits has You Covered
+Newsletter: Housing Starts Decreased to 1.324 million Annual Rate in March
+Archer Aviation: Real Progress, Real Potential
+Longform links: a bygone era
+Autism: nature vs nurture
+Housing Starts Decreased to 1.324 million Annual Rate in March
+Weekly Initial Unemployment Claims Decrease to 215,000
+Trump Wants 90 Trade Deals in 90 Days. How Realistic Is That?
+Avoid the Unforced Investment Errors Even Billionaires Make
+Probable Cause to Believe the Government was in Criminal Contempt of Court
+Jackson Financial: High Beta, High Yield
+Will Tariff-Related Inflation Derail The Bond Market’s Rally?
+Undercovered ETFs: Income, Argentina, AI, Gold +
+Health Insurance, Baseball Caps, and Pardons
+March manufacturing production also shows evidence of tariff front-running
+Macro Briefing: 17 April 2025
+Frontrunning Tariffs Boosts Economic Activity
+Block: A 'Buy' On Valuation And Bitcoin Strategy
+NVDIA Profit Warning Triggers a Three Percent Nasdaq Decline
+Thursday: Housing Starts, Unemployment Claims, Philly Fed Mfg
+The Grandest Game of ‘Chicken’ Ever Played
+Fed Chair Powell Warns of Higher Inflation and Slower Growth Due to Tariffs
+Fed Chair Powell: "Higher inflation and slower growth"
+GDPNow Estimate Rises on Retail Sales But Still Negative
+Wednesday links: humble investors
+Applied Digital: REIT Focus Is A Strategic Pivot For Growth
+Retail Sales Surge in March Led by Tariff Front-Running of Autos
+Kimco Realty: A Wonderful Boring Stock For Today's Chaotic Times
+The Fed Can't Stay Silent On The Risks Of Rate Manipulation
+Personal finance links: a team sport
+New Trends With Friends Episode: Net New Lows Soar, China's Tech Ascendancy, and Macro Madness
+Slate: Economics on a Whim…
+Low-Volatility Strategy Is 2025’s Upside Outlier For Equity Factors
+Macro Briefing: 16 April 2025
+Rare Earth Metals: Does China Have The Trump Card?
+Swaps And Basis Trades Warn Of Mounting Liquidity Problems
+Bitcoin At Channel Resistance
+Tech Bros vs. Gold Bugs
+A Trade War Debate, Who Has the Cards, the US or China?
+Tuesday links: the range of outcomes
+China Halts Boeing Jet Delivery: Goodbye Boeing, Hello Airbus?
+The Best Masters Ever
+What Are the Best & Worst-Case Tariff Scenarios?
+Research links: expected value
+Embargoes: The Flip Side of Trump’s China Tariffs
+Defensive Sectors Are A Lifeboat For US Equity Investors In 2025
+Volatility Boosts Bank Bottom Lines
+Standing at the Edge of the Iran War Cliff
+Monday links: volatility spikes
+Transcript: Anthony Yoseloff, Davidson Kempner CIO
+Momentum Monday - Does The Bounce Continue?
+Adviser links: seeing the future
+Is The Market Pricing In A Higher Risk Premium For US Treasuries?
+Macro Briefing: 14 April 2025
+10 Monday AM Reads
+
+https://finviz.com/insidertrading.ashx
+VLGEA Sale 105,828
+LIEN Buy 525
+RDDT Option Exercise 0
+RDDT Sale 3,133,100
+PEN Option Exercise 839,280
+PEN Sale 4,543,228
+CCO Buy 911,999
+CCO Buy 195,177
+KDP Sale 427,080
+PRTS Option Exercise 0
+PRTS Option Exercise 0
+PRTS Option Exercise 0
+PRTS Option Exercise 0
+GYRE Option Exercise 103,950
+NYC Buy 19,906
+NYC Buy 20,288
+FFAI Buy 100
+SHIM Sale 3,040
+EQT Option Exercise 0
+MEC Option Exercise 0
+MEC Option Exercise 0
+EQT Option Exercise 0
+TOST Option Exercise 106,400
+TOST Sale 2,394,650
+MEC Option Exercise 0
+MEC Option Exercise 0
+EQT Option Exercise 0
+MEC Option Exercise 0
+EQT Option Exercise 0
+HRB Sale 3,405,097
+UTHR Option Exercise 1,295,360
+UTHR Sale 3,121,543
+EQT Option Exercise 0
+EQT Option Exercise 0
+CRDO Sale 2,051,023
+EQT Option Exercise 0
+OFIX Sale 50,791
+EQT Option Exercise 0
+PROK Buy 74,820
+ONTF Option Exercise 48,682
+ONTF Option Exercise 4,815
+ONTF Sale 16,030
+ONTF Sale 157,941
+UAN Buy 383,000
+UAN Buy 385,274
+CVI Buy 1,268,068
+CVI Buy 265,264
+AAOI Sale 21,906
+BYRN Buy 14,701
+BATRA Buy 1,055,378
+BATRA Buy 11,844
+BATRK Buy 1,055,378
+BATRK Buy 11,844
+RF Option Exercise 0
+RF Option Exercise 0
+RF Option Exercise 0
+RF Option Exercise 0
+HIMS Option Exercise 81,813
+HIMS Sale 1,022,453
+HIMS Sale 1,342,094
+ZYME Buy 825,589
+ZYME Buy 630,819
+GOOG Sale 5,075,149
+GOOGL Sale 5,075,149
+PPG Option Exercise 0
+PPG Option Exercise 0
+GH Sale 5,196
+POR Sale 79,372
+CDE Option Exercise 112,200
+BTMD Buy 3,292
+BTMD Buy 22,615
+U Sale 29,396
+LCII Option Exercise 83,659
+BOC Sale 65,757
+BOC Sale 115,311
+BOC Sale 272,377
+SKYH Sale 65,757
+SKYH Sale 115,311
+SKYH Sale 272,377
+NET Sale 2,751,034
+NET Sale 2,829,650
+NET Sale 2,795,417
+LGF-A Buy 1,405,042
+LGF-B Buy 1,405,042
+ETD Sale 263,100
+ETD Sale 18,417
+EVCM Sale 83,904
+EVCM Sale 90,176
+EVCM Sale 71,493
+RBRK Sale 832,155
+RBRK Sale 832,155
+RDDT Sale 12,024,331
+MRVL Option Exercise 0
+ASPI Sale 383,563
+ASPI Sale 363,023
+ASPI Sale 374,761
+ASPI Sale 1,821,944
+ASPI Sale 1,724,378
+ASPI Sale 1,780,075
+BCDA Buy 214
+PEN Sale 13,560
+KTOS Sale 197,956
+GDDY Sale 171,750
+ADBE Option Exercise 0
+ADBE Option Exercise 0
+ADBE Option Exercise 0
+ADBE Option Exercise 0
+ADBE Option Exercise 0
+ADBE Option Exercise 0
+SYM Sale 54,852
+ZM Sale 907,162
+ZM Sale 1,168,623
+ZM Sale 851,342
+TEAM Sale 1,616,459
+TEAM Sale 1,616,460
+ADI Sale 563,143
+ADI Sale 546,184
+EBAY Option Exercise 0
+EBAY Sale 77,267
+EBAY Option Exercise 0
+CARG Sale 268,400
+WSM Option Exercise 0
+WSM Option Exercise 0
+WSM Option Exercise 0
+PGY Option Exercise 0
+PGY Sale 119,577
+WSM Option Exercise 0
+UTI Sale 2,721
+WSM Option Exercise 0
+TDUP Sale 932,144
+TDUP Sale 904,208
+TDUP Sale 617,691
+PASG Sale 3,924
+PASG Sale 20,341
+PASG Sale 25,440
+CDXS Buy 55,720
+CDXS Buy 148,890
+CDXS Buy 94,162
+META Sale 489,254
+AS Proposed Sale 258,196
+RBRK Sale 124,058
+WMT Sale 166,883
+TTSH Buy 13,473
+TTSH Buy 67,182
+FRGE Sale 244,104
+NAMS Option Exercise 1,000,000
+BAC Buy 23,322
+NAD Buy 23,322
+ZDGE Buy 4,414
+DBX Sale 67,338
+OPFI Option Exercise 0
+OPFI Option Exercise 0
+OPFI Sale 289,810
+OPFI Sale 289,563
+LOVE Option Exercise 0
+IRIX Proposed Sale 7,335
+LOVE Option Exercise 0
+LOVE Option Exercise 0
+HEI Proposed Sale 12,975,375
+HEI-A Proposed Sale 12,975,375
+CALM Sale 12,708,100
+CALM Sale 103,949,910
+MCFT Buy 70,311
+MCFT Buy 175,943
+MCFT Buy 176,739
+FSLY Sale 28,099
+WAL Option Exercise 0
+WAL Option Exercise 0
+WAL Option Exercise 0
+WAL Option Exercise 0
+WAL Option Exercise 0
+WAL Option Exercise 0
+WAL Option Exercise 0
+WAL Option Exercise 0
+WAL Option Exercise 0
+ZETA Proposed Sale 121,908
+ZETA Proposed Sale 1,494,317
+CNXC Sale 1,428,691
+CNXC Sale 2,384,573
+CNXC Sale 554,867
+CNXC Sale 906,840
+PHR Sale 106,742
+TRMB Option Exercise 631,843
+TRMB Option Exercise 322,257
+TRMB Option Exercise 3,517,168
+TRMB Option Exercise 405,781
+TRMB Option Exercise 288,526
+TRMB Option Exercise 497,991
+TRMB Option Exercise 766,291
+TRMB Option Exercise 184,776
+PHR Sale 14,856
+PHR Sale 43,924
+ZETA Proposed Sale 2,100,822
+PHR Sale 73,588
+PHR Sale 7,550
+PHR Sale 9,890
+HOOD Sale 9,199,712
+PHR Sale 28,878
+NOW Option Exercise 0
+NOW Sale 284,832
+

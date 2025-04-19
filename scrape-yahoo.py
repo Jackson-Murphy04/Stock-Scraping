@@ -17,7 +17,7 @@ service = Service(executable_path="chromedriver.exe")
 # Configure Chrome options
 options = Options()
 # user agent to avoid bot detection 
-# options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3")
+options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3")
 options.add_argument("--headless")  # Enable headless mode
 
 # init chrome driver
@@ -48,9 +48,9 @@ with open("output.txt", "w") as file:
         file.write(f"{target}\n")
         driver.get(target)
         # Wait for all rows to load
-        #WebDriverWait(driver, 20).until(
-            #EC.presence_of_all_elements_located((By.CSS_SELECTOR, "tr"))
-        #)
+        WebDriverWait(driver, 20).until(
+            EC.presence_of_all_elements_located((By.CSS_SELECTOR, "tr"))
+        )
 
         #WebDriverWait(driver, 30)
         html = driver.page_source
@@ -100,6 +100,7 @@ with open("output.txt", "a") as file:
         if headline:
             headline_text = headline.text.strip()
             file.write(f"{headline_text}\n")
+    file.write("\n")
 
 
 
