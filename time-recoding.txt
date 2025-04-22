@@ -9,3 +9,4 @@ Philip:
 3/29- 2 hours researching python and selenium
 3/30- 1 hour researching beautifulsoup
 3/31- 1 hour testing code and attempting to scrape for the first time (ran into an issue with selenium, “Unable to obtain driver for chrome”)
+4/22- 1 hour fixing issue I was having with selenium on my computer, was able to get scrape-yahoo.py running 
