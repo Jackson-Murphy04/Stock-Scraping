@@ -1,0 +1,17 @@
+Since progress report 1, Jackson has updated the scraping program to two separate programs that scrape data from yahoo and finviz, storing them in an output file. 
+I have resolved the issue I was having with selenium, and am now able to run both programs on my computer. Our next steps are to sort and clean the data we have collected, 
+implement sentiment analysis, then implement output. We may scrape additional sites for data if we have time remaining after the other steps. As of now Jackson has done
+more work, but now that I have resolved my issue I will be able to work more on the next steps.
+
+Jackson
+02/22 - 1 hour basic project and idea research
+03/18 - 2 hours learning to use selenium and get basic script running
+03/18 - 2 hours learning to use beautiful soup and targeting first site yahoo trending
+03/26 - 1 hour lab general bug fixing for first scrape
+04/18 - 5 hour getting yahoo and finviz also wrote shell script and have all data going to an output file
+Philip:
+3/26- 1 hour in lab writing rubric
+3/29- 2 hours researching python and selenium
+3/30- 1 hour researching beautifulsoup
+3/31- 1 hour testing code and attempting to scrape for the first time (ran into an issue with selenium, “Unable to obtain driver for chrome”)
+4/22- 1 hour fixing issue I was having with selenium on my computer, was able to get scrape-yahoo.py and scrape-finviz.py running 
