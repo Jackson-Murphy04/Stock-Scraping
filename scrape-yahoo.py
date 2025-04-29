@@ -43,7 +43,7 @@ def substring(text):
 # target sites and load page html
 targets = ["https://finance.yahoo.com/markets/stocks/trending/", "https://finance.yahoo.com/markets/stocks/gainers/", 
            "https://finance.yahoo.com/markets/stocks/most-active/"]
-with open("output.txt", "w") as file:
+with open("outData.txt", "w") as file:
     for target in targets: 
         file.write(f"{target}\n")
         driver.get(target)
@@ -86,7 +86,7 @@ with open("output.txt", "w") as file:
         file .write("\n")
 
 # get the trending headlines
-with open("output.txt", "a") as file:
+with open("outHeadlines.txt", "a") as file:
     file.write("https://finance.yahoo.com/topic/stock-market-news/\n")
     driver.get("https://finance.yahoo.com/topic/stock-market-news/")
 

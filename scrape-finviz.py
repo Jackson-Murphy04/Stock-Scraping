@@ -20,7 +20,7 @@ options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) Apple
 driver = webdriver.Chrome(options=options, service=service)
 
 # scrape home page tickers, change, volume, and signal
-with open("output.txt", "a") as file:
+with open("outData.txt", "a") as file:
     file.write("https://finviz.com/\n")
     driver.get("https://finviz.com/")
     time.sleep(5)
@@ -45,7 +45,7 @@ with open("output.txt", "a") as file:
     file.write("\n")
 
 # scrape news headlines
-with open("output.txt", "a") as file:
+with open("outHeadlines.txt", "a") as file:
     file.write("https://finviz.com/news.ashx\n")
     driver.get("https://finviz.com/news.ashx")
     time.sleep(5)
@@ -61,7 +61,7 @@ with open("output.txt", "a") as file:
     file.write("\n")
 
 # scrape insider trades
-with open("output.txt", "a") as file:
+with open("outData.txt", "a") as file:
     file.write("https://finviz.com/insidertrading.ashx\n")
     driver.get("https://finviz.com/insidertrading.ashx")
     time.sleep(5)

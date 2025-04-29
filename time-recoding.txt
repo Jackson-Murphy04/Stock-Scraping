@@ -3,9 +3,12 @@ Jackson
 03/18 - 2 hours learning to use selenium and get basic script running
 03/18 - 2 hours learning to use beautiful soup and targeting first site yahoo trending 
 03/26 - 1 hour lab general bug fixing for first scrape
-04/18 - 5 hour getting yahoo and finviz also wrote shell script and have all data going to an output file 
+04/18 - 5 hours getting yahoo and finviz also wrote shell script and have all data going to an output file 
+04/28 - 4 hours getting headline sentiment analyze
+Total: 15 
 Philip:
 3/26- 1 hour in lab writing rubric
 3/29- 2 hours researching python and selenium
 3/30- 1 hour researching beautifulsoup
 3/31- 1 hour testing code and attempting to scrape for the first time (ran into an issue with selenium, “Unable to obtain driver for chrome”)
+Total: 5

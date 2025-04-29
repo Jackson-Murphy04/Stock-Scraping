@@ -1,6 +1,7 @@
 Install Python
 Install Selenium
   pip install selenium
+  pip install nltk
 Might need to update chrome and make sure Chromedriver is installed and up to date 
 on windows need to install git for windows and use git bash terminal to run scrape.sh (bash scrape.sh)
 or could run each scrape program starting with scrape-yahoo.py
