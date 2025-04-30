@@ -5,9 +5,9 @@ Jackson
 03/26 - 1 hour lab general bug fixing for first scrape
 
 Task To be Done:
-- taget 10+ more sites for scraping and make sure info is pulled
+- target 10+ more sites for scraping and make sure info is pulled
 - have all data pulled into a file 
 - plan an algorthim to make descisions on what to trade 
 
 How this Challenge went:
-The early part of this project has been somewhat challenging but also rewarding as learning a new technology in selenium and beutiful soup in a language that I havent used in a couple of years required a lot of early learning and trial and error. But once I got things up and running I have seen how quickly this code can be adapted to run on multiple taget sites. Obviously going forward I still have some questions about how best I am going to use the data collected to make trading descisions. 
+The early part of this project has been somewhat challenging but also rewarding as learning a new technology in selenium and beautiful soup in a language that I havent used in a couple of years required a lot of early learning and trial and error. But once I got things up and running I have seen how quickly this code can be adapted to run on multiple taget sites. Obviously going forward I still have some questions about how best I am going to use the data collected to make trading descisions. 

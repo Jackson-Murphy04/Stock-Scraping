@@ -1,323 +1,323 @@
 https://finance.yahoo.com/markets/stocks/trending/
-PLUG (+25.68%) 218.743M
-PONY (+47.22%) 69.393M
-WOLF (+26.30%) 65.276M
-NXPI (+1.39%) 3.722M
-NVDA (-2.05%) 205.768M
-CDNS (-1.34%) 3.407M
-SOFI (+2.48%) 94.207M
-WM (+0.34%) 2.343M
-SPOT (-3.70%) 3.919M
-AGMH (+175.72%) 1.764B
-NIO (+6.95%) 58.214M
-TSLA (+0.33%) 150.082M
-OKTA (+1.36%) 1.881M
-LGMK (+48.28%) 1.089B
-SMCI (+2.19%) 42.335M
-GME (+0.47%) 5.247M
-PYPL (-0.63%) 14.175M
-NUE (+0.73%) 1.894M
-BA (+2.44%) 8.194M
-MLGO (-10.23%) 26.103M
-RIVN (+4.52%) 33.424M
-FFIV (-1.84%) 856,929
-FFAI (+24.76%) 27.098M
-BYON (+1.95%) 2.746M
-TVGN (-5.52%) 3.982M
+SMCI (-15.89%) 66.858M
+SBUX (-6.93%) 23.881M
+SNAP (-14.96%) 86.518M
+APP (-5.72%) 6.074M
+ODD (+22.52%) 3.539M
+WING (+10.91%) 1.299M
+CEP (+12.55%) 7.922M
+WGS (-40.57%) 4.654M
+RGLS (+132.79%) 22.208M
+META (-3.41%) 9.453M
+STX (+8.28%) 7.076M
+FSLR (-9.55%) 9.227M
+NCLH (-9.41%) 20.273M
+IVF (+69.57%) 67.552M
+STEM (+29.81%) 14.46M
+JFBR (+44.72%) 83.513M
+ETSY (-8.25%) 5.761M
+QRVO (+9.38%) 2.964M
+RGC (+71.36%) 436,379
+BLCO (-15.60%) 2.515M
+SMG (-12.50%) 2.754M
+CAT (-1.23%) 2.026M
+NVNI (+53.00%) 198.759M
+WDC (+6.01%) 9.063M
+HUM (-1.72%) 1.448M
 
 https://finance.yahoo.com/markets/stocks/gainers/
-PONY (+47.22%) 69.393M
-SQNNY (+21.77%) 30,600
-ADMA (+12.12%) 10.241M
-TXHPF (+11.31%) 18,000
-BHVN (+9.58%) 4.175M
-OVHFF (+8.70%) 21,600
-OTLY (+7.53%) 161,978
-GMVHY (+7.04%) 24,070
-VEON (+6.97%) 419,903
-RVMD (+6.96%) 2.849M
-LKNCY (+6.40%) 994,197
-HPH (+6.37%) 79,446
-W (+6.05%) 7.549M
-ANGPY (+5.71%) 107,400
-HTHIY (+5.57%) 38,532
-BBWI (+5.54%) 5.691M
-AUR (+5.52%) 15.936M
-VRNA (+5.15%) 2.235M
-APPF (+4.93%) 940,841
-PTON (+4.93%) 13.872M
-ZK (+4.86%) 776,561
-IMVT (+4.76%) 1.445M
-IFS (+4.64%) 498,032
-CX (+4.56%) 14.117M
-RIVN (+4.52%) 33.424M
+ODD (+22.53%) 3.565M
+WING (+11.09%) 1.300M
+KC (+9.50%) 4.446M
+QRVO (+9.37%) 2.969M
+STX (+8.35%) 7.110M
+TT (+7.72%) 1.218M
+FSS (+6.90%) 480,350
+VMC (+5.97%) 984,048
+GDS (+6.17%) 1.544M
+WDC (+5.81%) 9.07M
+EXLS (+5.91%) 1.483M
+GIL (+5.92%) 1.031M
+BBIO (+5.68%) 6.404M
+NMIH (+5.71%) 529,748
+XPO (+5.60%) 2.209M
+IMVT (+5.58%) 587,995
+AAGIY (+5.21%) 53,356
+TTDKY (+4.83%) 15,577
+CHEF (+4.41%) 438,049
+MDLZ (+4.45%) 6.46M
+GEHC (+4.41%) 6.025M
+SNN (+4.20%) 873,938
+ORLA (+3.87%) 528,981
+SPOT (+4.15%) 2.371M
+EADSY (+3.96%) 167,243
 
 https://finance.yahoo.com/markets/stocks/most-active/
-NVDA (-2.05%) 205.768M
-TSLA (+0.33%) 150.082M
-PLTR (+1.66%) 110.48M
-SOFI (+2.48%) 94.207M
-INTC (+2.29%) 96.305M
-SWTX (+3.26%) 79.815M
-F (-0.20%) 73.691M
-LCID (+1.20%) 75.081M
-PONY (+47.22%) 69.393M
-NIO (+6.95%) 58.214M
-AAL (+1.03%) 57.483M
-SNAP (+3.40%) 53.079M
-NU (+1.08%) 50.897M
-PFE (+0.57%) 52.579M
-BTG (+0.32%) 43.838M
-SMCI (+2.19%) 42.335M
-GRAB (-0.42%) 39.156M
-AAPL (+0.41%) 37.236M
-BAC (+0.23%) 34.636M
-WBD (+1.28%) 37.004M
-HOOD (-1.05%) 34.708M
-PSLV (+0.36%) 33.119M
-AMCR (+0.94%) 32.527M
-HIMS (+1.39%) 31.72M
-ABEV (+0.81%) 31.588M
+NVDA (-2.80%) 105.165M
+SNAP (-14.91%) 88.316M
+TSLA (-5.63%) 71.001M
+SMCI (-15.74%) 67.261M
+F (-2.46%) 64.464M
+PLTR (-0.70%) 62.246M
+LCID (-4.30%) 55.791M
+SOFI (-6.18%) 51.345M
+AAL (-1.57%) 38.534M
+PSLV (-0.59%) 33.515M
+INTC (-2.93%) 31.393M
+BTG (+0.81%) 28.874M
+LYG (-1.51%) 27.523M
+PFE (+1.69%) 26.948M
+NU (-1.33%) 25.764M
+HIMS (-7.08%) 25.619M
+BBD (-0.62%) 25.346M
+SBUX (-6.62%) 24.058M
+GRAB (+2.71%) 23.608M
+MARA (-5.73%) 22.93M
+ABEV (+1.38%) 22.54M
+RIVN (-0.75%) 21.93M
+AMZN (-3.56%) 21.611M
+NGD (+15.22%) 22.123M
+AMCR (-1.23%) 20.586M
 
 https://finviz.com/
-AGMH 175.72% 1.81B Top Gainers
-LGMK 48.28% 1.10B Top Gainers
-PONY 47.22% 69.39M Top Gainers
-INEO 42.57% 23.75M Top Gainers
-UPC 41.67% 6.85M Top Gainers
-ZYBT 35.54% 365.38K Top Gainers
-RGLS 26.45% 4.76M New High
-ZTEK 13.95% 241.23K New High
-ZYBT 35.54% 365.38K New High
-TBMC 4.08% 194.37K New High
-CEP N/A 6.22M Overbought
-CEPO 1.31% 851.17K Overbought
-COOT N/A 2.44M Unusual Volume
-SNTI N/A 3.61M Unusual Volume
-GLOW 0.46% 222.56K Unusual Volume
-ISRL 3.42% 208.74K Unusual Volume
-AON 2.27% 2.94M Upgrades
-AMBR 2.44% 57.34K Earnings Before
-VANI N/A 25.05K Insider Buying
-SNTI N/A 3.61M Top Losers
-SILO N/A 1.04M Top Losers
-WLDS N/A 337.44K Top Losers
-SPCB N/A 3.79M Top Losers
-CGTL N/A 2.22M Top Losers
-NAAS N/A 21.90M Top Losers
-SPRB N/A 12.20M New Low
-PHOE N/A 871.71K New Low
-HCTI N/A 1.14M New Low
-WLDS N/A 337.44K New Low
-WHLR N/A 592.02K Oversold
-CTHR N/A 56.37K Oversold
-NAAS N/A 21.90M Most Volatile
-UPXI N/A 2.10M Most Volatile
-AGMH 175.72% 1.81B Most Active
-LGMK 48.28% 1.10B Most Active
-AGRO N/A 2.36M Downgrades
-ABCB 1.68% 537.15K Earnings After
-VLGEA 0.45% 34.23K Insider Selling
+RGLS 131.41% 22.01M Top Gainers
+RGC 85.44% 417.34K Top Gainers
+IVF 70.84% 67.13M Top Gainers
+NVNI 50.52% 193.24M Top Gainers
+RCKY 41.22% 343.44K Top Gainers
+WW 40.71% 179.35M Top Gainers
+RGLS 131.41% 22.01M New High
+EPWK 4.47% 123.83K New High
+ODD 21.58% 3.46M New High
+ABEO 35.28% 10.21M New High
+CEP 12.25% 7.80M Overbought
+EPWK 4.47% 123.83K Overbought
+IVF 70.84% 67.13M Unusual Volume
+JFBR 43.53% 83.25M Unusual Volume
+PPBT N/A 4.24M Unusual Volume
+GRAF 0.19% 901.83K Unusual Volume
+ABNB N/A 4.03M Upgrades
+ACIU 0.59% 121.90K Earnings Before
+NBTB N/A 166.97K Insider Buying
+WGS N/A 4.57M Top Losers
+SOGP N/A 328.08K Top Losers
+WNC N/A 1.42M Top Losers
+SAIH N/A 25.59K Top Losers
+NAOV N/A 188.18K Top Losers
+VICR N/A 548.98K Top Losers
+EJH N/A 25.95M New Low
+WNC N/A 1.42M New Low
+MULN N/A 5.84M New Low
+UAVS N/A 768.95K New Low
+INTS N/A 126.45K Oversold
+AIEV N/A 43.51K Oversold
+RGC 85.44% 417.34K Most Volatile
+YB 25.80% 860.12K Most Volatile
+LGMK 8.59% 633.31M Most Active
+PTPI N/A 482.33M Most Active
+CRI N/A 392.08K Downgrades
+ACR 0.60% 3.89K Earnings After
+GPI N/A 51.62K Insider Selling
 
 https://finviz.com/insidertrading.ashx
-VLGEA Sale 71,214
-VLGEA Sale 105,579
-BOWN Sale 81,805
-BOC Sale 134,152
-BOC Sale 168,436
-BOC Sale 149,007
-SKYH Sale 134,152
-SKYH Sale 168,436
-SKYH Sale 149,007
-CRWD Sale 4,294,500
-WKHS Option Exercise 0
-WKHS Option Exercise 0
-WKHS Option Exercise 0
-WKHS Option Exercise 0
-WKHS Option Exercise 0
-WKHS Option Exercise 0
-WKHS Option Exercise 0
-BLK Option Exercise 5,135,000
-BLK Sale 9,125,002
-LIF Sale 19,500
-LIF Sale 121,717
-LIF Sale 176,294
-BYND Sale 2,858
-VANI Buy 1,124
-ZM Sale 186,684
-TEAM Sale 1,821,004
-ZM Sale 937,926
-TEAM Sale 1,821,004
-SIG Buy 100,057
-VIRT Sale 6,877,986
-VIRT Sale 6,903,640
-TGI Option Exercise 0
-TGI Option Exercise 0
-FNKO Sale 6,025
-TGI Option Exercise 0
-PMT Buy 34,968
-PMT Buy 15,298
-TGI Option Exercise 0
-BCDA Buy 24,999
-TSLA Buy 1,025,232
-TGI Option Exercise 0
-WMT Sale 2,743,318
-IRIX Buy 3,362
-AKRO Option Exercise 131,875
-AKRO Sale 256,438
-ICCT Buy 371,941
-ICCT Buy 202
-ICCT Sale 77,264
-ICCT Sale 2,325
-HALO Sale 271,467
-DOC Buy 74,928
-DOC Buy 199,233
-DOC Buy 105,938
-DOC Buy 49,991
-DOC Buy 200,438
-CVI Buy 549,331
-CVI Buy 746,921
-BJRI Sale 1,180,478
-NTIC Buy 7,452
-NFLX Option Exercise 261,142
-NFLX Sale 702,106
-ARBE Proposed Sale 34,084
-ATLO Buy 8,325
-CCO Buy 147,493
-CCO Buy 510,000
-CDNS Sale 49,500
-IRIX Buy 53
-IRIX Buy 9,705
-HUBS Sale 408,000
-SUNS Buy 78,611
-SUNS Buy 50,000
-SUNS Buy 52,757
-ENPH Buy 185,390
-AEVA Proposed Sale 915,000
-CRTO Proposed Sale 96,299
-MYTE Proposed Sale 1,494,555
-K Sale 9,449,969
-GEV Proposed Sale 6,922,512
-SHIM Proposed Sale 23,251
-PNR Option Exercise 9,877,432
-BLNE Buy 5,027
-CSV Proposed Sale 87,205
-NHC Option Exercise 355,520
-CASH Sale 146,631
-CBFV Option Exercise 0
-CBFV Sale 72,552
-MEDP Option Exercise 269,271
-MEDP Sale 516,716
-FLWS Buy 177,073
-FLWS Buy 545,980
-FLWS Buy 189,606
-ADBE Option Exercise 0
-WFRD Buy 504,529
-GVA Sale 223,256
-GVA Sale 32,100
-GVA Sale 290,734
-NU Proposed Sale 9,250,835
-WABC Proposed Sale 108,949
-ADBE Option Exercise 0
-ADBE Option Exercise 0
-HBAN Option Exercise 370,260
-HBAN Sale 49,796
-BYND Proposed Sale 2,817
-ADBE Option Exercise 0
-CSV Proposed Sale 99,711
-ADBE Option Exercise 0
-ADBE Option Exercise 0
-HOOD Proposed Sale 4,656,014
-SYM Proposed Sale 102,939
-JMSB Buy 18,600
-TEAF Buy 1,119
-TSBK Proposed Sale 66,000
-JMSB Buy 78,864
-PRGS Sale 83,210
-THS Option Exercise 0
-PEGA Proposed Sale 100,701
-THS Option Exercise 0
-THS Option Exercise 0
-THS Option Exercise 0
-IPI Proposed Sale 13,612
-ELVN Proposed Sale 59,182
-IMRA Proposed Sale 59,182
-NET Sale 1,201,354
-HGTY Sale 74,429
-HGTY Sale 10,364
-THRM Buy 74,010
-SHIP Proposed Sale 46,046
-ENVA Proposed Sale 200,000
-THS Option Exercise 0
-CARG Sale 581,421
-CARG Sale 64,537
-CARG Sale 584,692
-CARG Sale 64,900
-WEAV Proposed Sale 207,040
-ESQ Proposed Sale 1,670,230
-BZAI Proposed Sale 79,032
-GE Option Exercise 624,072
-GE Sale 807,380
-GE Sale 190,998
-SNCR Proposed Sale 9,420
-SEM Proposed Sale 4,050,000
-SNCR Proposed Sale 18,700
-CNTA Proposed Sale 33,474
-TPH Proposed Sale 3,648,305
-MMLP Buy 20,561
-MMLP Buy 192,479
-CRNC Proposed Sale 93,959
-URI Proposed Sale 2,816,680
-EXPI Proposed Sale 175,994
-WOLF Proposed Sale 55,497
-MGRC Proposed Sale 497,528
-BNZI Sale 24,010
-BNZI Sale 24,930
-WEAV Proposed Sale 553,120
-DASH Option Exercise 143,200
-DASH Sale 3,696,983
-META Proposed Sale 337,768
-NVRI Option Exercise 0
-NVRI Option Exercise 0
-UCB Buy 13,617
-NVRI Option Exercise 0
-GWRE Proposed Sale 277,508
-NVRI Option Exercise 0
-RLAY Proposed Sale 3,110
-TFIN Buy 80,250
-ISRG Proposed Sale 96,991
-NVRI Option Exercise 0
-NVRI Option Exercise 0
-EQT Proposed Sale 368,016
-SNOW Sale 1,600,000
-LQDT Proposed Sale 315,550
-KMB Option Exercise 0
-KMB Option Exercise 0
-KMB Option Exercise 0
-KMB Option Exercise 0
-ADVM Buy 102,841
-ADVM Buy 86,089
-TRST Buy 24,989
-KMB Option Exercise 0
-KMB Option Exercise 0
-KMB Option Exercise 0
-KMB Option Exercise 0
-KMB Option Exercise 0
-WAB Sale 738,529
-GPI Proposed Sale 654,181
-WAB Option Exercise 185,866
-WAB Sale 1,950,735
-WINA Option Exercise 229,825
-CWBC Buy 17,180
-CWBC Buy 34,387
-PNC Sale 101,566
-RJF Proposed Sale 498,144
-ISRG Option Exercise 969,347
-ISRG Sale 2,052,720
-PDYN Proposed Sale 314,800
-SCHW Proposed Sale 2,988,008
-NOW Proposed Sale 717,351
-TPL Buy 3,972
-TPL Buy 9,271
-CHCO Proposed Sale 215,876
+GPI Sale 654,184
+HBAN Proposed Sale 848,300
+NBTB Buy 110,315
+MLI Sale 1,210,901
+NFBK Sale 50,664
+GLW Proposed Sale 892,637
+RCG Buy 886
+RCG Buy 2,286
+ATLO Buy 2,080
+DPZ Proposed Sale 186,645
+NMIH Proposed Sale 1,377,554
+TPL Buy 4,000
+TPL Buy 9,334
+DNA Proposed Sale 707
+RCG Buy 1,255
+STT Proposed Sale 115,776
+CHCO Sale 124,844
+MPB Buy 28,177
+FNLC Buy 96,400
+BHRB Buy 212,000
+MTDR Buy 204,300
+WGS Proposed Sale 43,900
+WGS Proposed Sale 243,600
+GVA Proposed Sale 1,859,059
+GRAL Proposed Sale 1,551,100
+BANC Buy 131,560
+WBA Buy 9,163,161
+WBA Sale 9,163,161
+THRM Buy 8,011
+GRAL Proposed Sale 3,541,380
+GRAL Proposed Sale 1,733,136
+RSG Option Exercise 0
+BLK Proposed Sale 15,118,796
+IRIX Buy 4,807
+PEN Sale 3,584,775
+ACRV Sale 2,056,605
+ACRV Sale 335,841
+ACRV Sale 352,500
+ACLX Option Exercise 9,990
+ACLX Sale 96,300
+TEAM Sale 1,824,814
+TEAM Sale 1,824,813
+JMSB Option Exercise 120,642
+CSV Sale 87,204
+CSV Sale 38,339
+CSV Sale 99,705
+LUV Buy 198,900
+BMY Buy 202,215
+AZZ Option Exercise 0
+AZZ Option Exercise 0
+AZZ Option Exercise 0
+AZZ Option Exercise 0
+AZZ Option Exercise 0
+AZZ Option Exercise 0
+ISRG Option Exercise 39,273
+ISRG Option Exercise 157,408
+ISRG Option Exercise 54,582
+ISRG Sale 96,991
+ISRG Sale 315,093
+ISRG Sale 96,425
+SRRK Option Exercise 50,000
+SRRK Sale 164,131
+MATV Option Exercise 0
+CALX Sale 989,690
+AVTR Buy 99,630
+AVTR Buy 312,500
+AVTR Buy 62,850
+AVTR Buy 103,646
+CXDO Option Exercise 0
+MCB Sale 199,461
+BFLY Sale 780,684
+CXDO Option Exercise 0
+GE Proposed Sale 405,956
+PEN Proposed Sale 2,357,475
+GDYN Proposed Sale 278,415
+TRAK Sale 107,388
+TRAK Sale 54,952
+PEGA Sale 100,705
+OBIO Buy 126,500
+CME Proposed Sale 268,240
+CXDO Option Exercise 0
+WBS Proposed Sale 86,104
+PEGA Option Exercise 2,898,880
+PEGA Sale 1,582,834
+PNR Option Exercise 215,299
+PNR Sale 589,827
+DOC Buy 89,150
+VTVT Proposed Sale 21,500
+HOOD Sale 288,390
+NFLX Proposed Sale 105,763,695
+PKBK Option Exercise 70,290
+PKBK Buy 9,385
+PKBK Buy 11,262
+SCHW Sale 2,989,800
+CNTA Option Exercise 12,147
+CNTA Option Exercise 21,077
+CNTA Sale 50,526
+CNTA Sale 29,132
+MOH Proposed Sale 214,214
+HBAN Option Exercise 370,859
+ACLX Proposed Sale 1,207,529
+TTSH Buy 28,342
+CR Option Exercise 0
+MRTN Buy 257,660
+EPRT Proposed Sale 2,507,812
+TCBX Buy 292,089
+TCBX Buy 68,424
+TCBX Buy 29,280
+STI Sale 32,940
+STI Sale 10,295
+STI Sale 9,982
+APH Option Exercise 3,914,750
+APH Option Exercise 671,100
+APH Sale 13,348,948
+APH Sale 2,286,678
+MSTR Option Exercise 54,554
+MSTR Option Exercise 36,956
+MSTR Sale 1,132,525
+ESQ Sale 1,670,230
+EVCM Proposed Sale 179,309
+UPST Proposed Sale 50,270
+URI Sale 688,908
+PCG Proposed Sale 562,497
+CYTK Sale 204,800
+META Proposed Sale 502,102
+URI Sale 2,816,680
+CRS Proposed Sale 678,567
+KNSA Proposed Sale 1,614,580
+KNSA Proposed Sale 1,075,827
+ACI Proposed Sale 674,482
+JMSB Buy 979
+JMSB Buy 23,952
+JMSB Buy 13,225
+IBCP Sale 198,527
+SNEX Proposed Sale 3,361,125
+VRNA Proposed Sale 1,376,600
+NTRA Proposed Sale 465,855
+RYTM Proposed Sale 434,445
+RYTM Proposed Sale 452,867
+KDP Proposed Sale 7,080,320
+DUOL Proposed Sale 1,921,700
+LFMD Proposed Sale 1,006,250
+DAY Sale 108,522
+CASH Sale 129,976
+RDN Proposed Sale 629,194
+SHIM Proposed Sale 14,046
+AXP Proposed Sale 799,005
+CASH Sale 809,196
+NRGV Proposed Sale 15,460
+TRST Buy 6,088
+CGON Option Exercise 600
+CGON Sale 30,760
+NRGV Proposed Sale 40,436
+CRTO Sale 96,281
+ARI Proposed Sale 94,800
+URI Proposed Sale 688,908
+NOW Sale 717,351
+NOW Sale 562,255
+INFY Proposed Sale 139,880
+CXM Proposed Sale 11,625
+SEM Sale 4,050,000
+PNC Sale 96,160
+PNC Buy 158,220
+TCBI Buy 338,800
+TPH Sale 3,626,653
+SITM Proposed Sale 187,300
+GEV Sale 6,922,512
+AGNC Sale 158,041
+CDXS Buy 55,915
+AGNC Sale 420,497
+AGNC Sale 429,197
+AGNC Sale 435,973
+DASH Option Exercise 6,128
+DASH Sale 266,788
+MRK Option Exercise 290,400
+MRK Sale 352,723
+APH Option Exercise 9,858,250
+APH Sale 29,605,797
+APH Option Exercise 2,237,000
+APH Sale 7,549,470
+APH Option Exercise 1,823,000
+APH Sale 7,587,890
+APH Option Exercise 44,000,000
+APH Sale 151,457,200
+CDNS Proposed Sale 1,413,000
+RLAY Proposed Sale 11,492
+ISRG Proposed Sale 96,425
+APH Option Exercise 7,292,000
+APH Sale 30,370,320
+EHC Proposed Sale 1,705,539
+NBBK Buy 85,450
+EHC Proposed Sale 5,017,565
+SCHW Proposed Sale 757,775
+DGICA Proposed Sale 290,550
+DGICA Proposed Sale 1,100,670
+CZNC Buy 26,187
+DGICA Proposed Sale 129,600
+BK Proposed Sale 2,367,300
+RBCAA Option Exercise 450,607
+IBCP Proposed Sale 201,252
 

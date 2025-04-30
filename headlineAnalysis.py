@@ -25,7 +25,7 @@ for headline in headlines:
 combine = list(zip(headlines, scores))
 
 # sort list from highest to lowest score
-sort_combine = sorted(combine, key = lamda x: x[1], reverse=True)
+sort_combine = sorted(combine, key = lambda x: x[1], reverse=True)
 
 # output headlines and scores
 with open("outputScores.txt", "a") as file:
