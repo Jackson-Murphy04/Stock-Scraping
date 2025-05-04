@@ -16,4 +16,5 @@ Philip:
 4/22- 1 hour fixing issue I was having with selenium on my computer, was able to get scrape-yahoo.py and scrape-finviz.py running 
 4/29- 2 hours adding sorting and output to headlineAnalysis.py
 5/1 - 2 hours working on clean.py
-Total: 10
+5/3 - 5 hours working on clean.py
+Total: 15
