@@ -1,3 +1,3 @@
 python scrape-yahoo.py
 python scrape-finviz.py
-python headlineAnalysis.py
+python clean-analyze.py

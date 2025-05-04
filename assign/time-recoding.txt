@@ -5,7 +5,9 @@ Jackson
 03/26 - 1 hour lab general bug fixing for first scrape
 04/18 - 5 hours getting yahoo and finviz also wrote shell script and have all data going to an output file 
 04/28 - 4 hours getting headline sentiment analyze
-Total: 15 
+05/03 - 3 hours clean and code headline
+05/04 - 3 hours finish headline coding and combine with sentiment
+Total: 21 
 Philip:
 3/26- 1 hour in lab writing rubric
 3/29- 2 hours researching python and selenium
