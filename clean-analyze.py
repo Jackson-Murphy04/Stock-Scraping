@@ -1,5 +1,6 @@
 import json
 import string
+import re
 from collections import defaultdict
 from collections import Counter
 import nltk
@@ -118,11 +119,57 @@ for headline in headlines:
     scores[headline] = score['compound']
 
 # sort
-sorted = dict(sorted(scores.items(), key=lambda item: item[1], reverse=True))
+scores = dict(sorted(scores.items(), key=lambda item: item[1], reverse=True))
 
 # match known data in matches to scores in sorted
 final = []
 for line in matches:
     final.append([line,matches[line], scores[line]])
-    print(line, matches[line], scores[line])
 
+# score all tickers, sort, and output
+tick_scores = {}
+for line in matches:
+    tickers = matches[line]
+    score = scores[line]
+    for ticker in tickers:
+        if ticker in tick_scores:
+            tick_scores[ticker] += score
+        else:
+            tick_scores[ticker] = score
+
+# use other scraped trading data to alter scores
+data = []
+# we loop the scraped data file line by line and skip https or empty lines and add the rest to a list
+with open('outData.txt', 'r') as input:
+        for line in input:
+            line = line.strip()
+            if line[:5] != 'https':
+                if line:
+                    data.append(line)
+
+# score data points 
+#scores = {}
+for point in data:
+    match = re.search(r'([-+]?\d+\.\d+)%', point)
+    if match:
+        percent = float(match.group(1))
+        tick_scores[point.split()[0]] = (percent / 1000) 
+    if point.split()[1] == "Buy":
+        if point.split()[0] in tick_scores:
+            tick_scores[point.split()[0]] += 0.2
+        else:
+            tick_scores[point.split()[0]] = 0.2
+# sort by highest scores
+tick_scores = dict(sorted(tick_scores.items(), key=lambda item: float(item[1]), reverse=True))
+
+# sort and output all scores
+with open("finalOut.txt", "w") as file:
+    for tick in tick_scores:
+        file.write(f"{tick}: {tick_scores[tick]}\n")
+        # ideally find way to output all headlines associated with ticker and score
+
+# Print only the first 5 tickers and their scores
+for i, tick in enumerate(tick_scores):
+    if i >= 5: 
+        break
+    print(tick, tick_scores[tick])

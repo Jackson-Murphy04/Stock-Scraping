@@ -7,7 +7,8 @@ Jackson
 04/28 - 4 hours getting headline sentiment analyze
 05/03 - 3 hours clean and code headline
 05/04 - 3 hours finish headline coding and combine with sentiment
-Total: 21 
+05/04 - 4 hours add alternate data scoring and finish output and set up sheet to track performance 
+Total: 25 
 Philip:
 3/26- 1 hour in lab writing rubric
 3/29- 2 hours researching python and selenium
