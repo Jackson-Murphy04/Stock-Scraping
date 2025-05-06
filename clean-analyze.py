@@ -79,7 +79,26 @@ STOPWORDS = {
     "the", "of", "in", "at", "this", "that", "but", "on", "and", "for", "to", "with", "a", "an",
     "by", "from", "as", "if", "so", "when", "then", "its", "into", "about", "over", "out", "off",
     "price", "value", "gain", "loss", "rise", "fall", "plenty", "market", "stock", "shares", "top", 
-    "are", "now", "five", "rare", "see", "low"
+    "are", "now", "five", "rare", "see", "low", "buy", "best",
+    # Industry-Specific
+    "Technologies", "Pharmaceuticals", "Healthcare", "Industries", "Energy",
+    "Mining", "Software", "Biotech", "Biosciences", "Telecom", "Financial",
+    "Insurance", "Retail", "Logistics", "Holdings",
+
+    # Business Structure
+    "Corporation", "Corp", "Incorporated", "Inc", "Company", "Co", "Limited",
+    "Ltd", "Group", "Partners", "Partnership", "Enterprises", "Associates", "LLC",
+
+    # Common Naming Words
+    "Global", "International", "National", "American", "United", "First",
+    "Capital", "Systems", "Solutions", "Resources", "Services", "Network", "Trust",
+
+    # Geographic References
+    "America", "American", "Pacific", "Atlantic", "Western", "Southern",
+    "Northern", "Eastern", "Central",
+
+    # Finance & Real Estate
+    "Bank", "Trust", "Capital", "Realty", "Investments", "Mortgage", "Equity"
 }
 
 matches = {}
