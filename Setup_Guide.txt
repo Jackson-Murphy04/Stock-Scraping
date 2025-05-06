@@ -4,5 +4,8 @@ Install Selenium
   pip install nltk
 Might need to update chrome and make sure Chromedriver is installed and up to date 
 on windows need to install git for windows and use git bash terminal to run scrape.sh (bash scrape.sh)
-or could run each scrape program starting with scrape-yahoo.py
+running scrape.sh will run both scraping prgrams to collect all scrapping data and then will run clean-analyze 
+this program cleans and coded the data before running sentiment analysis and scoring tickers
+finally the program will output the 5 highest scored tickers (recommended buys) 
+and all tickers and scores will be written to the finalOut file
 
