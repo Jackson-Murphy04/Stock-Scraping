@@ -1,114 +1,134 @@
 https://finance.yahoo.com/markets/stocks/trending/
-PLTR (-11.73%) 36.439M
-LMND (+4.83%) 741.410k
-CELH (-3.51%) 3.114M
-DASH (-6.95%) 1.819M
-CEG (+7.64%) 995,805
-AMD (-2.26%) 4.25M
-DDOG (-4.13%) 2.125M
-F (+1.28%) 15.745M
-FOXO (+171.97%) 59.643M
-SEDG (+16.45%) 3.269M
-MRIN (+130.57%) 45.581M
-KTTA (+91.55%) 57.987M
-MAR (+2.20%) 317,177
-ADM (+3.64%) 433,059
-BLMZ (+88.82%) 77.656M
-RACE (+1.01%) 73,035
-GPN (-1.62%) 215,011
-DUK (+1.42%) 220,974
-JFBR (-12.78%) 21.883M
-SXTC (+35.04%) 16.487M
-GLMD (+15.16%) 20.074M
-FIS (-2.94%) 384,319
-SKX (+0.19%) 7.413M
-DOCN (-9.05%) 353,855
-AIFU (+70.39%) 154.853M
+PLTR (-12.12%) 106.083M
+HIMS (+11.15%) 79.189M
+CEG (+9.20%) 2.958M
+DASH (-6.94%) 4.622M
+F (+3.44%) 63.548M
+KTTA (+66.20%) 185.364M
+LMND (+0.40%) 2.566M
+FOXO (+217.56%) 119.428M
+VRTX (-11.21%) 3.49M
+UPWK (+21.25%) 3.671M
+EVGO (+39.17%) 11.992M
+CELH (+0.12%) 7.543M
+SEDG (+18.02%) 8.009M
+MRIN (+95.83%) 56.535M
+BLMZ (+55.00%) 126.894M
+TDUP (+39.60%) 10.532M
+CTRA (-7.68%) 10.868M
+DDOG (+2.32%) 6.061M
+DOCN (-11.10%) 1.994M
+NBIX (+10.91%) 2.161M
+AREB (+5.82%) 27.078M
+AIFU (+75.81%) 200.193M
+SXTC (+25.46%) 20.694M
+MAR (+2.26%) 958,087
+RRX (+13.83%) 554,119
 
 https://finance.yahoo.com/markets/stocks/gainers/
-NBIX (+13.92%) 768.113k
-RRX (+13.39%) 113.741k
-UPWK (+13.51%) 634.736k
-PONY (+12.37%) 5.435M
-TDW (+10.01%) 269,407
-HIMS (+11.75%) 21.259M
-CEG (+7.81%) 977,210
-BLD (+6.73%) 25,621
-AVNT (+6.63%) 70,048
-PINC (+6.61%) 201,189
-FMS (+6.17%) 158,077
-LMND (+5.05%) 712,949
-STRL (+4.77%) 93,430
-INGR (+4.30%) 52,267
-CE (+4.96%) 583,262
-SPNT (+4.68%) 47,392
-AL (+4.16%) 193,603
-NXT (+4.88%) 211,482
-TIMB (+4.12%) 32,877
-ORLA (+3.52%) 220,325
-AU (+3.61%) 433,826
-IBP (+3.80%) 28,010
-ULS (+3.56%) 42,277
-HMY (+3.42%) 790,529
-VAL (+3.47%) 228,081
+UPWK (+21.28%) 3.675M
+RRX (+14.01%) 556.174k
+PONY (+11.55%) 15.032M
+NBIX (+10.91%) 2.161M
+HIMS (+11.14%) 79.129M
+PINC (+10.09%) 993,515
+CEG (+9.34%) 2.956M
+TDW (+9.08%) 736,928
+ULS (+8.56%) 343,124
+ARMK (+7.87%) 1.958M
+CE (+8.22%) 2.35M
+AL (+7.55%) 756,085
+FMS (+7.18%) 307,706
+SPNT (+6.33%) 156,462
+TSRYY (+6.27%) 19,646
+VAL (+6.31%) 985,261
+AVNT (+5.87%) 255,825
+LPX (+5.60%) 575,763
+DUFRY (+5.52%) 15,586
+NXT (+5.42%) 958,087
+LCII (+5.69%) 280,810
+STRL (+5.09%) 305,924
+IPAR (+4.75%) 73,459
+SEE (+4.79%) 1.023M
+SCHYY (+4.87%) 250
 
 https://finance.yahoo.com/markets/stocks/most-active/
-PLTR (-11.70%) 37.344M
-HIMS (+12.92%) 22.964M
-NVDA (-1.99%) 17.262M
-F (+1.38%) 16.284M
+PLTR (-12.05%) 105.981M
+HIMS (+11.18%) 79.131M
+F (+3.39%) 63.558M
+NVDA (-0.96%) 59.363M
+LCID (+0.42%) 41.066M
+TSLA (-2.00%) 33.57M
+AAL (-1.64%) 21.266M
+SKX (+0.04%) 20.918M
+AAPL (-0.15%) 20.561M
+RIG (+3.48%) 16.587M
+PFE (-1.77%) 15.972M
+BTG (+2.31%) 15.676M
+INTC (-1.63%) 15.229M
+SOFI (-1.07%) 15.312M
+PONY (+11.55%) 15.007M
+PSLV (+2.47%) 14.789M
 BERY (-2.93%) 18.808M
-TSLA (-1.22%) 11.091M
-AAPL (+0.23%) 8.985M
-BECN (0.00%) 8.299M
-LCID (0.00%) 7.934M
-SKX (+0.17%) 7.496M
-PFE (-0.68%) 6.27M
-NIO (-2.14%) 5.524M
-AAL (-1.55%) 5.605M
-PONY (+10.20%) 5.437M
+NIO (-2.58%) 13.576M
+AMD (-1.86%) 13.325M
+HOOD (-0.83%) 12.848M
+WBD (+0.42%) 12.703M
+SMCI (+0.62%) 12.043M
+RIVN (+0.55%) 11.088M
+NU (+0.56%) 11.06M
+CTRA (-7.72%) 10.874M
 
 https://finviz.com/
-GPUS N/A 0 Top Gainers
-NITO N/A 0 Top Gainers
-NCNA N/A 0 Top Gainers
-NVNI N/A 0 Top Gainers
-RGC N/A 0 Top Gainers
-IMMP N/A 0 Top Gainers
-EPSM N/A 0 New High
-RGC N/A 0 New High
-THM N/A 0 New High
-ATHR N/A 0 New High
-RGLS N/A 0 Overbought
-ROMA N/A 0 Overbought
-GPUS N/A 0 Unusual Volume
-NCNA N/A 0 Unusual Volume
-JCSE N/A 0 Unusual Volume
-NITO N/A 0 Unusual Volume
-BFC N/A 0 Upgrades
-ACLS N/A 0 Earnings Before
-DHIL N/A 0 Insider Buying
-EPWK N/A 0 Top Losers
-ENGS N/A 0 Top Losers
-ABVE N/A 0 Top Losers
-SLGL N/A 0 Top Losers
-SXTC N/A 0 Top Losers
-PNBK N/A 0 Top Losers
-EJH N/A 0 New Low
-IART N/A 0 New Low
-BNR N/A 0 New Low
-SRXH N/A 0 New Low
-RBNE N/A 0 Oversold
-EJH N/A 0 Oversold
-EPWK N/A 0 Most Volatile
-GPUS N/A 0 Most Volatile
-NITO N/A 0 Most Active
-GPUS N/A 0 Most Active
-CVX N/A 0 Downgrades
-ACA N/A 0 Earnings After
-PG N/A 0 Insider Selling
+FOXO 166.78% 109.80M Top Gainers
+KTTA 122.58% 178.35M Top Gainers
+BLMZ 71.32% 121.68M Top Gainers
+AIFU 68.58% 196.70M Top Gainers
+RGC 39.97% 158.16K Top Gainers
+DHC 39.90% 1.58M Top Gainers
+RGC 39.97% 158.16K New High
+TDUP 36.49% 9.05M New High
+FARO 33.74% 6.18M New High
+AEVA 8.22% 765.94K New High
+ROMA 7.79% 98.09K Overbought
+RGLS N/A 165.16K Overbought
+CAMP 5.73% 9.96M Unusual Volume
+FOXO 166.78% 109.80M Unusual Volume
+MRIN 98.72% 56.02M Unusual Volume
+KTTA 122.58% 178.35M Unusual Volume
+BFC 0.41% 4.31K Upgrades
+ACLS 2.98% 409.68K Earnings Before
+DHIL 0.09% 2.58K Insider Buying
+NCNA N/A 22.98M Top Losers
+SEAT N/A 5.20M Top Losers
+RAY N/A 698.35K Top Losers
+ZCAR N/A 439.70K Top Losers
+GPUS N/A 5.52M Top Losers
+PRAA N/A 801.80K Top Losers
+BIAF N/A 3.64M New Low
+YCBD N/A 2.61M New Low
+TCMD N/A 906.41K New Low
+SEAT N/A 5.20M New Low
+EJH N/A 6.33M Oversold
+MERC N/A 516.90K Oversold
+KTTA 122.58% 178.35M Most Volatile
+RYET N/A 931.30K Most Volatile
+AIFU 68.58% 196.70M Most Active
+KTTA 122.58% 178.35M Most Active
+CVX 0.64% 2.32M Downgrades
+ACA 0.61% 69.03K Earnings After
+TSLA N/A 31.70M Insider Selling
 
 https://finviz.com/insidertrading.ashx
+BPRN Option Exercise 68,520
+TSLA Proposed Sale 30,809,645
+BPRN Option Exercise 51,390
+EFX Proposed Sale 518,200
+HNVR Sale 117,090
+HNVR Sale 7,559
+KLAC Proposed Sale 7,381,007
+SMR Proposed Sale 20,402
+SLAB Proposed Sale 57,030
 PG Option Exercise 844,651
 PG Sale 1,669,200
 DNA Proposed Sale 668
@@ -300,13 +320,4 @@ IFF Option Exercise 0
 STRO Option Exercise 0
 IFF Option Exercise 0
 STRO Option Exercise 0
-PWP Sale 2,367,081
-AIG Proposed Sale 3,845,159
-DERM Sale 33,065
-DERM Sale 16,478
-DERM Sale 19,542
-AMH Proposed Sale 1,658,025
-ABAT Sale 225,000
-ENVA Proposed Sale 859,855
-ADPT Option Exercise 432,364
 
