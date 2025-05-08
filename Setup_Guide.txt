@@ -2,6 +2,10 @@ Install Python
 Install Selenium
   pip install selenium
   pip install nltk
+Install BeautifulSoup
+  pip install bs4
+Install yfinance
+  pip install yfinance
 Might need to update chrome and make sure Chromedriver is installed and up to date 
 on windows need to install git for windows and use git bash terminal to run scrape.sh (bash scrape.sh)
 running scrape.sh will run both scraping programs to collect all scrapping data and then will run clean-analyze 
