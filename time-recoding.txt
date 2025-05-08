@@ -18,4 +18,5 @@ Philip:
 4/29- 2 hours adding sorting and output to headlineAnalysis.py
 5/1 - 2 hours working on clean.py
 5/3 - 5 hours working on clean.py
-Total: 15
+5/7 - 2 hours making lookup.py
+Total: 17
